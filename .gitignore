@@ -28,6 +28,7 @@ venv/
 env/
 .venv
 .ipynb_checkpoints/
+notebooks/.virtual_documents/
 
 # ============================================
 # OPERATING SYSTEM
